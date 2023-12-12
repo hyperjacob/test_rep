@@ -1,3 +1,3 @@
 # test_rep
 hello
-hello local
+line conflict 2
